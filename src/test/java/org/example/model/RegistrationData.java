@@ -36,4 +36,6 @@ public record RegistrationData(
     public String fullName() {
         return firstName + " " + lastName;
     }
+
+
 }

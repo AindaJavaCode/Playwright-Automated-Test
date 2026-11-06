@@ -1,0 +1,1 @@
+Automated testing of https://practicesoftwaretesting.com/ using Java, JUnit, and Playwright
